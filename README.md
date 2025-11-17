@@ -1,4 +1,7 @@
-![logo](https://github.com/bharathi2494/bharathi2494/blob/main/gihub%20banner.png)
+<p align="center">
+  <img src="https://github.com/bharathi2494/bharathi2494/blob/main/gihub%20banner.png" alt="banner" width="500">
+</p>
+
 <h1 align="center">Hi 👋, I'm Bharathi S</h1>
 <h3 align="center">Data Analyst | Excel • SQL • Power BI • Python | Turning Data into Insights</h3>
 
